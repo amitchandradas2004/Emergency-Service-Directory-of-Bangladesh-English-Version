@@ -2,7 +2,7 @@
 
 A modern and responsive **Emergency Service Directory** static web application that provides quick access to important government emergency hotline numbers in Bangladesh.
 
-🔗 <h2> [Live Demo:https:(//amitchandradas2004.github.io/Emergency-Service-Directory-of-Bangladesh-English-Version/)]  </h2>
+🔗 <h2> [Live Demo:](https://amitchandradas2004.github.io/Emergency-Service-Directory-of-Bangladesh-English-Version/) </h2>
 👉 
 
 ---
